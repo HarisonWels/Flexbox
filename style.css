@@ -39,6 +39,12 @@ background-color: black;
 padding-left: 20px;
 padding-top: 10px;
 }
-.conteiner:hover{width: 110px;  
+.conteiner:hover{width: 110px;
+height: 90px;
+background: rgb(32, 221, 174);
+background: radial-gradient(circle,
+rgb(13, 228, 120) 0%, 
+rgb(56, 145, 230) 100%); 
+box-shadow: rgb(12, 193, 206) 0 0 10px;  
 }
 img{width: 50%;}
